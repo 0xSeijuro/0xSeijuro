@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rcusi 👋
 
-<!--
-**0xSeijuro/0xSeijuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about running nodes and exploring testnets in the blockchain world.  
+I love diving deep into network setups, experimenting with new protocols, and contributing to decentralized systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+- Running blockchain nodes and testnets  
+- Exploring decentralized networks and technologies  
+- Constantly learning and improving my blockchain skills
+
+---
+
+### 🔧 Tech & Tools
+- Node.js  
+- Ethereum & other EVM chains  
+- Blockchain testnets  
+- Docker & Linux
+
+---
+
+### 📌 Featured Project
+Check out my work and follow me on [X (Twitter)](https://x.com/0xSeijuro)
+
+---
+
+### 📫 How to reach me
+Feel free to connect or ask questions!  
+[X (Twitter)](https://x.com/0xSeijuro)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSeijuro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSeijuro&layout=compact&theme=radical)
