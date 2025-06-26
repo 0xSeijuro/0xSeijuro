@@ -1,4 +1,4 @@
-# Hi, I'm Rcusi 👋
+# Hi, I'm 0xSeijuro 👋
 
 I'm passionate about running nodes and exploring testnets in the blockchain world.  
 I love diving deep into network setups, experimenting with new protocols, and contributing to decentralized systems.
