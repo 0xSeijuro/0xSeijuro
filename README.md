@@ -5,11 +5,10 @@ I love diving deep into network setups, experimenting with new protocols, and co
 
 ---
 
-### 🚀 What I do
+###  What I do
 - Running blockchain nodes and testnets  
 - Exploring decentralized networks and technologies  
 - Constantly learning and improving my blockchain skills
-
 ---
 
 ### 🔧 Tech & Tools
