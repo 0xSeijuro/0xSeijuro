@@ -2,7 +2,6 @@
 
 I'm passionate about running nodes and exploring testnets in the blockchain world.  
 I love diving deep into network setups, experimenting with new protocols, and contributing to decentralized systems.
-
 ---
 ###  What I do
 - Running blockchain nodes and testnets  
