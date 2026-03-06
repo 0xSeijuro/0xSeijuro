@@ -8,6 +8,7 @@ I love diving deep into network setups, experimenting with new protocols, and co
 - Running blockchain nodes and testnets  
 - Exploring decentralized networks and technologies  
 - Constantly learning and improving my blockchain skills
+  
 ---
 ### 🔧 Tech & Tools
 - Node.js  
