@@ -16,7 +16,7 @@ I love diving deep into network setups, experimenting with new protocols, and co
 - Blockchain testnets  
 - Docker & Linux
 
----
+----
 
 ### 📌 Featured Project
 Check out my work and follow me on [X (Twitter)](https://x.com/0xSeijuro)
